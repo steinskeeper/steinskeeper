@@ -1,3 +1,33 @@
+
+
+
+### Hello there, Dhanush Prabhakar here 👋
+
+
+
+
+### 🔭 I’m currently working on
+  - Building API using Golang and Python.
+  - Designing User Interfaces with rich UX using JS and Tailwind.
+  - Working on using Graph Database and Traversal in a graph to find information.
+  - Maintaining Deployment tools like Docker on Heroku and AWS.
+
+### 🌱 I’m currently learning
+  - Using Golang efficiently.
+  - Visualization of graphs.
+  - Pytorch and GAN related topics.
+  - Hyperledgers and Scalable Blockchains.
+
+### ⚡ So Far:
+  - Rebuilt an entire codebase from Python ( FastAPI ) to Golang. 
+  - Shifted from Postgres to Dgraph for task specific use cases.
+  - Worked on TailwindCSS libraries and UI kits.
+  - Built admin applications for university in ExpressJS.
+  - Won BuildwithAi Hackathon where we demonstrated an Immersive Reader for Dyslexic Students.
+  - First Place in Visionet Hackathon by building Mind Castle
+  - Deployed SaaS apps using NodeJS , MongoDB.
+
+
 <details>
   <summary><b>I like this piece</b></summary>
   <br/>
@@ -6,7 +36,6 @@ One might invent such a fable and still not have illustrated sufficiently how wr
 
 ― Friedrich Nietzsche, On Truth and Lies in a Nonmoral Sense 
 </details>
-
 
 
 
