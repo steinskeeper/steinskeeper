@@ -1,4 +1,7 @@
+<img style="width:100%;height:3px;" src="https://i.imgur.com/RfbNFj6.png" />
+
 ### Hello there, Dhanush Prabhakar here 👋
+
 
 <b>I like this piece</b>
   <br/>
